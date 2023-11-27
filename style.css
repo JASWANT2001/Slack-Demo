@@ -1,0 +1,169 @@
+
+.hnav{
+    background-color: #541554;
+    padding: 20px 150px 20px 150px;
+}
+.hnav1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+
+}
+.col3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+.col1{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    
+}
+.col1 a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+.col3 a{
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.tryforfree{
+    background-color: white;
+    color: #541554;
+    border-radius: 4px;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.talktosales{
+    background-color: #541554;
+    color: white;
+    border-radius: 4px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hnav2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 150px;
+    background-color: #541554;
+    padding-bottom: 60px;
+
+}
+.email{
+    background-color: white;
+    color: #541554;
+    border-radius: 4px;
+    padding: 15px;
+    border: 1px solid white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.google{
+    background-color: rgb(85, 85, 197);
+    color: white;
+    border-radius: 4px;
+    padding: 15px;
+    border: 1px solid blue;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.companies{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-weight: bold;
+    
+}
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+.hnav3{
+    padding-top: 40px;
+    padding-bottom: 70px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-color: #ebeaeb;;
+}
+.content1{
+    display: flex;
+    justify-content: space-between;
+}
+.allcontent{
+    background-color: #ebeaeb;
+    padding: 20px 150px 20px 150px;
+}
+.text a{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline blue;
+  }
+.colorblue{
+    color: blue;
+}
+.t{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+
+}
+.x{
+    padding-top: 15px;
+    font-weight: 550;
+    font-family: "Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+
+}
+.text{
+    padding-top: 35px;
+}
+.content2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.space{
+    padding-right: 10px;
+}
+.ends{
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+.ends0{
+    background-color: white;
+    padding-top: 30px;
+}
+.ends1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+}
+.h{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
+.n{
+    font-weight: 550;
+    font-family: "Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
